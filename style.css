@@ -10,9 +10,9 @@ scroll-behavior:smooth;
 
 body{
 font-family:'Poppins',sans-serif;
+background-color : var(--primary);
 }
 
-/* NAVBAR */
 
 nav{
 
@@ -52,7 +52,6 @@ font-weight:600;
 
 }
 
-/* HERO */
 
 .hero{
 
@@ -88,7 +87,6 @@ cursor:pointer;
 
 }
 
-/* IMAGE */
 
 .hero-image img{
 
@@ -97,7 +95,6 @@ border-radius:15px;
 
 }
 
-/* SECTIONS */
 
 section{
 
@@ -106,7 +103,6 @@ text-align:center;
 
 }
 
-/* PROJECTS */
 
 .project-container{
 
@@ -134,7 +130,6 @@ transform:translateY(-10px);
 
 }
 
-/* FOOTER */
 
 footer{
 
